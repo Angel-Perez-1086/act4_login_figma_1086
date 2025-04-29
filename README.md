@@ -1,5 +1,16 @@
 # Act4_Iogin_figma
+Pantalla entrar
+![image](https://github.com/user-attachments/assets/388ebadf-72eb-404e-bf05-45cfe9844c6d)
 
+Pantalla register
+![image](https://github.com/user-attachments/assets/2492dc66-ef54-4be7-8044-6276d746c0e2)
+![image](https://github.com/user-attachments/assets/5be25561-78be-48af-b5a3-752ba6efaad8)
+
+Pantalla login
+![image](https://github.com/user-attachments/assets/d81cb841-16de-43a8-94e1-b65490e5f3ca)
+![image](https://github.com/user-attachments/assets/3c45458c-12ed-4c58-907f-b7f4101a7140)
+
+Pantalla principal
 A new Flutter project created with FlutLab - https://flutlab.io
 
 ## Getting Started
